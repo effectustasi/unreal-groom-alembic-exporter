@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Groom Alembic Exporter",
+	"Description": "Adds a Content Browser action to export a Groom Asset's strand data to an Alembic (.abc) file using UE's groom Alembic schema.",
+	"Category": "Geometry",
+	"CreatedBy": "effectustasi",
+	"CreatedByURL": "https://github.com/effectustasi",
+	"DocsURL": "https://github.com/effectustasi/ue-groom-alembic-export",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GroomExportEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "HairStrands",
+			"Enabled": true
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": true
+		}
+	]
+}
