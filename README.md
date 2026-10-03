@@ -218,3 +218,10 @@ perfectly, looks rotated in Blender. Pick the mode for the destination.
 ## License
 
 MIT. Not affiliated with or endorsed by Epic Games. Unreal Engine and MetaHuman are trademarks of Epic Games, Inc.
+
+## More tools by effectustasi
+
+- [agent-receipts](https://github.com/effectustasi/agent-receipts): Skills that make AI coding agents prove "done" with real test output
+- [blender-dlss5-neural-rendering](https://github.com/effectustasi/blender-dlss5-neural-rendering): Blender viewport and renders through DLSS 5 neural rendering
+- [metahuman-face-capture](https://github.com/effectustasi/metahuman-face-capture): MetaHuman face capture from a webcam in Blender
+- [autodesk-inventor-mcp](https://github.com/effectustasi/autodesk-inventor-mcp): Connect AI agents to a live Autodesk Inventor session
